@@ -1,5 +1,5 @@
 # Summary
-Website: [Aeos-Kit](https://capitainebaguette.github.io/Aeos-Kit/)
+Websitea: [Aeos-Kit](https://capitainebaguette.github.io/Aeos-Kit/)
 <br>
 Download Folder:  [Releases](https://github.com/CapitaineBaguette/Aeos-Kit/releases)
 <br>
