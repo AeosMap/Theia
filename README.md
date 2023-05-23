@@ -5,7 +5,7 @@ Download Folder:  [Releases](https://github.com/AeosMap/Theia/releases)
 <br>
 Sections:
 <br>
-<img src="https://raw.githubusercontent.com/CapitaineBaguette/Aeos-Kit/v1.0-release/ressources/icons/flag_en.png" alt="English Flag" title="English Flag" width="25px"> [English](#section-anglaise)
+<img src="ressources/icons/Pencil.png" alt="English Flag" title="English Flag" width="25px"> [English](#section-anglaise)
 <br>
 <img src="https://raw.githubusercontent.com/CapitaineBaguette/Aeos-Kit/v1.0-release/ressources/icons/flag_fr.png" alt="Drapeau Français" title="Drapeau Français" width="25px"> [Français](#section-française)
 
