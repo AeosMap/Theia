@@ -31,33 +31,33 @@ Sections:
 - #### Add Playable Pokémon <a name="section-en-jouable"></a>
     - Get the image of the Pokémon of your choice (in this example we will add Arceus to the Attacker role), preferably with a transparent background (.png format) and equals length and width.
     - Save the image in the Playable Pokémon folder: Theia/ressources/playable_pokemon/
-    <br><img src="https://raw.githubusercontent.com/CapitaineBaguette/Aeos-Kit/v1.0-release/ressources/notice/folder_playable_pokemon.png" alt="Playable Folder Image" title="Playable Folder Image">
-    - Find the \<!-- PURPLE SIDE --> section, then the role of the new Pokémon. For example, here it is \<!-- ATTACKERS -->.<img src="https://raw.githubusercontent.com/CapitaineBaguette/Aeos-Kit/v1.0-release/ressources/notice/section_purple.png" alt="Playable Section Image" title="Playable Section Image">
-    - Copy the section of the last Pokémon (\<!-- CHANDELURE -->) and paste it in a new line.<img src="https://raw.githubusercontent.com/CapitaineBaguette/Aeos-Kit/v1.0-release/ressources/notice/copy_chandelure.png" alt="Chandelure Copy Image" title="Chandelure Copy Image">
-    - Modify the title and the image name. <img src="https://raw.githubusercontent.com/CapitaineBaguette/Aeos-Kit/v1.0-release/ressources/notice/arceus_section.png" alt="Modify Arceus Image" title="Modify Arceus Image">
+    <br><img src="ressources/notice/folder_playable_pokemon.png" alt="Playable Folder Image" title="Playable Folder Image">
+    - Find the \<!-- PURPLE SIDE --> section, then the role of the new Pokémon. For example, here it is \<!-- ATTACKERS -->.<img src="ressources/notice/section_purple.png" alt="Playable Section Image" title="Playable Section Image">
+    - Copy the section of the last Pokémon (\<!-- CHANDELURE -->) and paste it in a new line.<img src="ressources/notice/copy_chandelure.png" alt="Chandelure Copy Image" title="Chandelure Copy Image">
+    - Modify the title and the image name. <img src="ressources/notice/arceus_section.png" alt="Modify Arceus Image" title="Modify Arceus Image">
     - Save and close the file. The modifications will be automatically added for the orange team.
 
 - #### Add Neutral Pokémon <a name="section-en-neutre"></a>
     - Get the image of the Pokémon of your choice (in this example we will add Natu), preferably with a transparent background (.png format) and equals length and width.
     - Save the image in the Wild Pokémon folder : Theia/ressources/wild_pokemon/
-    <br><img src="https://raw.githubusercontent.com/CapitaineBaguette/Aeos-Kit/v1.0-release/ressources/notice/folder_wild_pokemon.png" alt="Wild Folder Image" title="Wild Folder Image">
-    - Find the \<!-- NEUTRAL POKEMON --> section. <img src="https://raw.githubusercontent.com/CapitaineBaguette/Aeos-Kit/v1.0-release/ressources/notice/section_neutral.png" alt="Wild Section Image" title="Wild Section Image">
-    - Copy the section of the last Pokémon (\<!-- INDEEDEE -->) and paste it in a new line. <img src="https://raw.githubusercontent.com/CapitaineBaguette/Aeos-Kit/v1.0-release/ressources/notice/copy_indeedee.png" alt="Indeedee Copy Image" title="Indeedee Copy Image">
-    - Modify the title and the image name. <img src="https://raw.githubusercontent.com/CapitaineBaguette/Aeos-Kit/v1.0-release/ressources/notice/natu_section.png" alt="Modify Natu Image" title="Modify Natu Image">
+    <br><img src="ressources/notice/folder_wild_pokemon.png" alt="Wild Folder Image" title="Wild Folder Image">
+    - Find the \<!-- NEUTRAL POKEMON --> section. <img src="ressources/notice/section_neutral.png" alt="Wild Section Image" title="Wild Section Image">
+    - Copy the section of the last Pokémon (\<!-- INDEEDEE -->) and paste it in a new line. <img src="ressources/notice/copy_indeedee.png" alt="Indeedee Copy Image" title="Indeedee Copy Image">
+    - Modify the title and the image name. <img src="ressources/notice/natu_section.png" alt="Modify Natu Image" title="Modify Natu Image">
     - Save and close the file.
 
 - #### Add Battle Item <a name="section-en-combat"></a>
     - Get the image of the item of your choice (in this example we will add Reviver Seed), preferably with a transparent background (.png format) and equals length and width.
     - Save the image in the Battle Item folder : Theia/ressources/battle_items/ 
-    <br><img src="https://raw.githubusercontent.com/CapitaineBaguette/Aeos-Kit/v1.0-release/ressources/notice/folder_battle_items.png" alt="Battle Item Folder Image" title="Battle Item Folder Image">
-    - Find the \<!-- ITEMS --> section, then the item category \<-- BATTLE ITEMS -->. <img src="https://raw.githubusercontent.com/CapitaineBaguette/Aeos-Kit/v1.0-release/ressources/notice/section_battle_item.png" alt="Battle Item Section Image" title="Battle Item Section Image">
-    - Copy the section of the last item (\<!-- SHEDINJA DOLL -->) and paste it in a new line. <img src="https://raw.githubusercontent.com/CapitaineBaguette/Aeos-Kit/v1.0-release/ressources/notice/copy_shedinja_doll.png" alt="Shedinja Doll Copy Image" title="Shedinja Doll Copy Image">
-    - Modify the title and the image name. <img src="https://raw.githubusercontent.com/CapitaineBaguette/Aeos-Kit/v1.0-release/ressources/notice/revival_seed_section.png" alt="Revival Seed Image" title="Revival Seed Image">
+    <br><img src="ressources/notice/folder_battle_items.png" alt="Battle Item Folder Image" title="Battle Item Folder Image">
+    - Find the \<!-- ITEMS --> section, then the item category \<-- BATTLE ITEMS -->. <img src="ressources/notice/section_battle_item.png" alt="Battle Item Section Image" title="Battle Item Section Image">
+    - Copy the section of the last item (\<!-- SHEDINJA DOLL -->) and paste it in a new line. <img src="ressources/notice/copy_shedinja_doll.png" alt="Shedinja Doll Copy Image" title="Shedinja Doll Copy Image">
+    - Modify the title and the image name. <img src="ressources/notice/revival_seed_section.png" alt="Revival Seed Image" title="Revival Seed Image">
     - Save and close the file.
 
 - #### Add Held Item <a name="section-en-tenu"></a>
     - Get the image of the item of your choice (in this example we will add Life Orb), preferably with a transparent background (.png format) and equals length and width.
-    - Save the image in the Held Item folder : Aeos-Kit/ressources/held_items/ <img src="https://raw.githubusercontent.com/CapitaineBaguette/Aeos-Kit/v1.0-release/ressources/notice/folder_held_items.png" alt="Held Item Folder Image" title="Held Item Folder Image">
+    - Save the image in the Held Item folder : Theia/ressources/held_items/ <img src="https://raw.githubusercontent.com/CapitaineBaguette/Aeos-Kit/v1.0-release/ressources/notice/folder_held_items.png" alt="Held Item Folder Image" title="Held Item Folder Image">
     - Find the \<!-- ITEMS --> section, then the item category \<-- HELD ITEMS -->. <img src="https://raw.githubusercontent.com/CapitaineBaguette/Aeos-Kit/v1.0-release/ressources/notice/section_held_item.png" alt="Held Item Section Image" title="Held Item Section Image">
     - Copy the section of the last item (\<!-- CHOICE SPECS -->) and paste it in a new line. <img src="https://raw.githubusercontent.com/CapitaineBaguette/Aeos-Kit/v1.0-release/ressources/notice/copy_choice_specs.png" alt="Choice Specs Copy Image" title="Choice Specs Copy Image">
     - Modify the title and the image name. <img src="https://raw.githubusercontent.com/CapitaineBaguette/Aeos-Kit/v1.0-release/ressources/notice/life_orb_section.png" alt="Modify Life Orb Image" title="Modify Life Orb Image">
