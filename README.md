@@ -7,7 +7,7 @@ Sections:
 <br>
 <img src="ressources/icons/flag_en.png" alt="English Flag" title="English Flag" width="25px"> [English](#section-anglaise)
 <br>
-<img src="https://raw.githubusercontent.com/CapitaineBaguette/Aeos-Kit/v1.0-release/ressources/icons/flag_fr.png" alt="Drapeau Français" title="Drapeau Français" width="25px"> [Français](#section-française)
+<img src="ressources/icons/flag_fr.png" alt="Drapeau Français" title="Drapeau Français" width="25px"> [Français](#section-française)
 
 ## English section <a name="section-anglaise"></a>
 ### Editing notice
@@ -25,7 +25,7 @@ Sections:
 
 - Use your favorite text editor to open index.html at the root of the folder Theia. (Notepad, [Notepad++](https://notepad-plus-plus.org/downloads/), [Visual Studio Code](https://code.visualstudio.com/download), [Sublime Text](https://www.sublimetext.com/3), etc...)
 <br>
-<img src="https://raw.githubusercontent.com/CapitaineBaguette/Aeos-Kit/v1.0-release/ressources/notice/index-file.png" alt="Image Index" title="Image Index">
+<img src="ressources/notice/index-file.png" alt="Image Index" title="Image Index">
 
 
 - #### Add Playable Pokémon <a name="section-en-jouable"></a>
