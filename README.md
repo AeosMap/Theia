@@ -3,18 +3,17 @@ Website: [Theia](https://aeosmap.github.io/Theia/)
 <br>
 Download Folder:  [Releases](https://github.com/AeosMap/Theia/releases)
 <br>
-Sections:
-<br>
+
 <img src="ressources/icons/flag_en.png" alt="English Flag" title="English Flag" width="25px"> [English](#section-anglaise)
 <br>
 <img src="ressources/icons/flag_fr.png" alt="Drapeau Français" title="Drapeau Français" width="25px"> [Français](#section-française)
 
 ## English section <a name="section-anglaise"></a>
 
-Maintained by the [Mathcord](https://aeosmap.github.io/Theia/)
+Maintained by the [Mathcord](https://discord.com/invite/4BssTu4g7p)
 <br>
-
-
+For precise Pokémon Unite data, check: [unite-db](https://unite-db.com/)
+<br>
 ### Editing notice
 \- [Add Playable Pokémon](#section-en-jouable)
 <br>
@@ -84,6 +83,11 @@ Maintained by the [Mathcord](https://aeosmap.github.io/Theia/)
     - Replace the old image and name the new image "map" in ".png" format.
 
 ## Section française <a name="section-française"></a>
+
+Maintenu par le [Mathcord](https://discord.com/invite/4BssTu4g7p)
+<br>
+Pour des données precises sur Pokémon Unite : [unite-db](https://unite-db.com/)
+<br>
 ### Notice de modification
 \- [Ajouter un Pokémon Jouable](#section-fr-jouable)
 <br>
