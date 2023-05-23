@@ -11,7 +11,7 @@ Sections:
 
 ## English section <a name="section-anglaise"></a>
 <br>
-Maintained by the [Mathcord](https://aeosmap.github.io/Theia/)
+Maintained by the: [Mathcord](https://aeosmap.github.io/Theia/)
 <br>
 
 ### Editing notice
