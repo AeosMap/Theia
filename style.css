@@ -753,7 +753,7 @@ p {
   padding: 1vw 1vh 1vw 20vw;
   background: -o-linear-gradient(right, #5a4aade1 0%, #5a4aade1 0%, #00000000 20%);
   background: -webkit-gradient(linear, right top, left top, from(#5a4aade1), color-stop(10%, #5a4aade1), color-stop(20%, #00000000));
-  background: linear-gradient(270deg, #5a4aade1 0%, #5a4aade1 10%, #00000000 20%);
+  background: linear-gradient(270deg, #5a4aade1 0%, #5a4aade1 0%, #00000000 20%);
   display: flex;
   align-items: center;
   direction: rtl;
