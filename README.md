@@ -10,6 +10,10 @@ Sections:
 <img src="ressources/icons/flag_fr.png" alt="Drapeau Français" title="Drapeau Français" width="25px"> [Français](#section-française)
 
 ## English section <a name="section-anglaise"></a>
+<br>
+Maintained by the [Mathcord](https://discord.com/invite/4BssTu4g7p)
+<br>
+
 ### Editing notice
 \- [Add Playable Pokémon](#section-en-jouable)
 <br>
