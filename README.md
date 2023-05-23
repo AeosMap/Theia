@@ -52,7 +52,7 @@ Sections:
     <br><img src="ressources/notice/folder_battle_items.png" alt="Battle Item Folder Image" title="Battle Item Folder Image">
     - Find the \<!-- ITEMS --> section, then the item category \<-- BATTLE ITEMS -->. <img src="ressources/notice/section_battle_item.png" alt="Battle Item Section Image" title="Battle Item Section Image">
     - Copy the section of the last item (\<!-- SHEDINJA DOLL -->) and paste it in a new line. <img src="ressources/notice/copy_shedinja_doll.png" alt="Shedinja Doll Copy Image" title="Shedinja Doll Copy Image">
-    - Modify the title and the image name. <img src="ressources/notice/revival_seed_section.png" alt="Revival Seed Image" title="Revival Seed Image">
+    - Modify the title and the image name. <img src="ressources/notice/reviver_seed_section.png" alt="Reviver Seed Image" title="Reviver Seed Image">
     - Save and close the file.
 
 - #### Add Held Item <a name="section-en-tenu"></a>
@@ -121,7 +121,7 @@ Sections:
     <br><img src="ressources/notice/folder_battle_items.png" alt="Image Dossier Objet de Combat" title="Image Dossier Objet de Combat">
     - Trouver la section \<!-- ITEMS --> puis la catégorie de l'objet \<-- BATTLE ITEMS -->. <img src="ressources/notice/section_battle_item.png" alt="Image Section Objet de Combat" title="Image Section Objet de Combat">
     - Copier la section du dernier objet (\<!-- SHEDINJA DOLL -->) et la coller à la ligne.<img src="ressources/notice/copy_shedinja_doll.png" alt="Image Copie Poupée Munja" title="Image Copie Poupée Munja">
-    - Modifier le titre et le nom de l'image. <img src="ressources/notice/revival_seed_section.png" alt="Image Modification Résugraine" title="Image Modification Résugraine">
+    - Modifier le titre et le nom de l'image. <img src="ressources/notice/reviver_seed_section.png" alt="Image Modification Résugraine" title="Image Modification Résugraine">
     - Enregistrer et fermer le fichier.
 
 - #### Ajouter un Objet Tenu <a name="section-fr-tenu"></a>
