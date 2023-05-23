@@ -12,7 +12,7 @@ Sections:
 <img src="ressources/icons/flag_fr.png" alt="Drapeau Français" title="Drapeau Français" width="25px"> [Français](#section-française)
 
 ## English section <a name="section-anglaise"></a>
-<br>
+
 Maintained by the [Mathcord](https://aeosmap.github.io/Theia/)
 <br>
 
