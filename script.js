@@ -1,4 +1,4 @@
-const DISCORD_USERNAME = "Captain Baguette#6805";
+const DISCORD_USERNAME = "Char#8299";
 
 // VARIABLES
 let INC_DRAGID = 0;
