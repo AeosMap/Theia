@@ -11,10 +11,8 @@ Sections:
 
 ## English section <a name="section-anglaise"></a>
 
-Maintained by the [Mathcord](https://aeosmap.github.io/Theia/)
+Maintained by the [Mathcord](https://discord.com/invite/4BssTu4g7p)
 <br>
-
-
 ### Editing notice
 \- [Add Playable Pokémon](#section-en-jouable)
 <br>
@@ -84,6 +82,9 @@ Maintained by the [Mathcord](https://aeosmap.github.io/Theia/)
     - Replace the old image and name the new image "map" in ".png" format.
 
 ## Section française <a name="section-française"></a>
+
+Maintenu par le [Mathcord](https://discord.com/invite/4BssTu4g7p)
+<br>
 ### Notice de modification
 \- [Ajouter un Pokémon Jouable](#section-fr-jouable)
 <br>
