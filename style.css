@@ -339,7 +339,7 @@ p {
 
 /* Icon on bottom right corner */
 .links {
-  width: 7vw;
+  width: 8vw;
   border-radius: 5px 5px 0 0;
   position: fixed;
   display: -ms-grid;
