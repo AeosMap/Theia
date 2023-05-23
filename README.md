@@ -12,6 +12,8 @@ Download Folder:  [Releases](https://github.com/AeosMap/Theia/releases)
 
 Maintained by the [Mathcord](https://discord.com/invite/4BssTu4g7p)
 <br>
+For precise Pokémon Unite data, check: [Unite-db](https://unite-db.com/)
+<br>
 ### Editing notice
 \- [Add Playable Pokémon](#section-en-jouable)
 <br>
@@ -83,6 +85,8 @@ Maintained by the [Mathcord](https://discord.com/invite/4BssTu4g7p)
 ## Section française <a name="section-française"></a>
 
 Maintenu par le [Mathcord](https://discord.com/invite/4BssTu4g7p)
+<br>
+Pour des données precises sur Pokémon Unite : [Unite-db](https://unite-db.com/)
 <br>
 ### Notice de modification
 \- [Ajouter un Pokémon Jouable](#section-fr-jouable)
