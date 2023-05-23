@@ -415,7 +415,7 @@ p {
 
 /* Category */
 .purple-side.category {
-  width: 25vw;
+  width: 20vw;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -431,7 +431,7 @@ p {
 }
 
 .orange-side.category {
-  width: 25vw;
+  width: 20vw;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
