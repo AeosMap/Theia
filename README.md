@@ -68,7 +68,7 @@ Sections:
     - Save the image in the Misc Item folder : Theia/ressources/miscellaneous/ 
     <br><img src="ressources/notice/folder_miscellaneous.png" alt="Misc Item Folder Image" title="Misc Item Folder Image">
     - Find the \<!-- MISCELLANEOUS -->. <img src="ressources/notice/section_misc.png" alt="Misc Item Section Image" title="Misc Item Section Image">
-    - Copy the section of the last item (\<!-- SAILAK BERRY -->) and paste it in a new line. <img src="ressources/notice/copy_sailak_berry.png" alt="Sailak Berry Copy Image" title="Sailak Berry Copy Image">
+    - Copy the section of the last item (\<!-- SALAC BERRY -->) and paste it in a new line. <img src="ressources/notice/copy_salac_berry.png" alt="Salac Berry Copy Image" title="Salac Berry Copy Image">
     - Modify the title and the image name. <img src="ressources/notice/nanab_berry_section.png" alt="Modify Nanab Berry Image" title="Modify Nanab Berry Image">
     - Save and close the file.
 
@@ -138,7 +138,7 @@ Sections:
     - Enregistrer l'image dans le dossier Objets Divers : Aeos-Kit/ressources/miscellaneous/
     <br><img src="ressources/notice/folder_miscellaneous.png" alt="Image Dossier Objet Divers" title="Image Dossier Objet Divers">
     - Trouver la section \<!-- MISCELLANEOUS -->. <img src="ressources/notice/section_misc.png" alt="Image Section Objet Divers" title="Image Section Objet Divers">
-    - Copier la section du dernier objet (\<!-- SAILAK BERRY -->) et la coller à la ligne.<img src="ressources/notice/copy_sailak_berry.png" alt="Image Copie Baie Sailak" title="Image Copie Baie Sailak">
+    - Copier la section du dernier objet (\<!-- SALAC BERRY -->) et la coller à la ligne.<img src="ressources/notice/copy_salac_berry.png" alt="Image Copie Baie Sailak" title="Image Copie Baie Sailak">
     - Modifier le titre et le nom de l'image. <img src="ressources/notice/nanab_berry_section.png" alt="Image Modification Baie Nanab" title="Image Modification Baie Nanab">
     - Enregistrer et fermer le fichier.
 
