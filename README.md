@@ -3,6 +3,8 @@ Website: [Theia](https://aeosmap.github.io/Theia/)
 <br>
 Download Folder:  [Releases](https://github.com/AeosMap/Theia/releases)
 <br>
+Maintained by the [Mathcord](https://aeosmap.github.io/Theia/)
+<br>
 Sections:
 <br>
 <img src="ressources/icons/flag_en.png" alt="English Flag" title="English Flag" width="25px"> [English](#section-anglaise)
@@ -11,7 +13,7 @@ Sections:
 
 ## English section <a name="section-anglaise"></a>
 <br>
-Maintained by the [Mathcord][https://aeosmap.github.io/Theia/]
+Maintained by the [Mathcord](https://aeosmap.github.io/Theia/)
 <br>
 
 ### Editing notice
