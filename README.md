@@ -3,8 +3,6 @@ Website: [Theia](https://aeosmap.github.io/Theia/)
 <br>
 Download Folder:  [Releases](https://github.com/AeosMap/Theia/releases)
 <br>
-Sections:
-<br>
 <img src="ressources/icons/flag_en.png" alt="English Flag" title="English Flag" width="25px"> [English](#section-anglaise)
 <br>
 <img src="ressources/icons/flag_fr.png" alt="Drapeau Français" title="Drapeau Français" width="25px"> [Français](#section-française)
