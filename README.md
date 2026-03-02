@@ -1,6 +1,8 @@
 # Summary
 Website: [Theia](https://aeosmap.github.io/Theia/)
+<br>
 Groudon version : (https://aeosmap.github.io/Theia-groudon/)
+<br>
 Kyogre version : (https://aeosmap.github.io/Theia-kyogre/)
 <br>
 Download Folder:  [Releases](https://github.com/AeosMap/Theia/releases)
