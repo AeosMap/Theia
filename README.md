@@ -10,7 +10,7 @@ Download Folder:  [Releases](https://github.com/AeosMap/Theia/releases)
 
 ## English section <a name="section-anglaise"></a>
 
-Maintained by the [Mathcord](https://discord.com/invite/4BssTu4g7p)
+Maintained by GalanteChar 
 <br>
 For precise Pokémon Unite data, check: [unite-db](https://unite-db.com/)
 <br>
